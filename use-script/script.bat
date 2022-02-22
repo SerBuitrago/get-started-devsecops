@@ -1,0 +1,4 @@
+SET NAME=%1%
+SET LASTNAME=%2%
+
+echo "Hola, %NAME% %LASTNAME%"
